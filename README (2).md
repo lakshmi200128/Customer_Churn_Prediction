@@ -45,5 +45,3 @@ The model evaluates customer churn based on historical data. Various metrics suc
 ## Contribution
 Feel free to fork this repository, report issues, or submit pull requests.
 
-## License
-This project is licensed under the MIT License.
